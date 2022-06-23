@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\phenr\OneDrive\Documentos\5° Semestre BCC\Linguagens Formais e Autômatos\Trabalho LFA\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1385629804.index
+3877742152.index
