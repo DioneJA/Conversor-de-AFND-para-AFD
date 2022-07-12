@@ -1,4 +1,4 @@
-<h1>Conversor-de-AFND-para-AFD</h1>
+<h1>Conversor-de-AFND-para-AFD</h1>s
 <p>Conversor simples de AFND para AFD. Feito 100% em Java para a Disciplina de Linguagens formais e automatos.</p>
 <h2>Instruções de uso: </h2>
 <p><b>OBS: O programa só aceita alfabeto de 0 e 1, sendo facilmente alterável para qualquer tipo de alfabeto, desde que contenha apenas 2 itens.</b></p>
