@@ -19,4 +19,4 @@
 &nbsp;&nbsp;         *q3 //Estado(s) finais<br>
 &nbsp;
 <p> - Após isto, selecione o diretório onde será salvo o resultado (AFD) do programa.</p>
-<p><b>OBS: O resultado sairá em um arquivo .txt, no mesmo padrão da AFD, o qual possui um exemplo logo acima. Na pasta do projeto está incluso um AFND e um executável do programa.</b></p>
+<p><b>OBS: O resultado sairá em um arquivo .txt, no mesmo padrão da AFD, o qual possui um exemplo logo acima. Na pasta do projeto está incluso um AFND de exemplo e um executável do programa.</b></p>
